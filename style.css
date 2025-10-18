@@ -1,0 +1,10 @@
+body {
+    font-family: Roboto, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.cards {
+    display: flex;
+}
